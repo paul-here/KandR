@@ -1,4 +1,4 @@
 # KandR
-Code copied from "The C Programming Language"
+Code copied from "The C Programming Language" as well as my implementations of exercises.
 
-This is set to private, so hopefully that falls under fair use since I own the book.
+I believe this falls under fair use since I own the book.
